@@ -1,0 +1,14 @@
+flask
+langchain
+sentence-transformers
+faiss-cpu
+PyMuPDF
+pdfminer.six
+Pillow
+paddleocr
+paddlepaddle
+easyocr
+pytesseract
+transformers
+langchain-groq
+python-dotenv
